@@ -1,0 +1,5 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="Hotswap">
+    <keyboard-shortcut first-keystroke="ctrl #10000d1" />
+  </action>
+</keymap>
